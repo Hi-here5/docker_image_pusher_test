@@ -8,5 +8,5 @@ alpine
 kasmweb/nginx:1.25.3
 python:alpine3.19
 #library/hello-world
-#library/hello-world:linux
-docker.io/library/hello-word
+library/hello-world:linux
+#docker.io/library/hello-word
