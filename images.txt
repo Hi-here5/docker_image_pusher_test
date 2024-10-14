@@ -10,3 +10,4 @@ python:alpine3.19
 library/hello-world
 library/centos:centos7
 liferay/jdk11:latest
+library/tomcat:latest
