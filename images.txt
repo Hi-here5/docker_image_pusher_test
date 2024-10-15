@@ -12,4 +12,5 @@ library/centos:centos7
 liferay/jdk11:latest
 library/tomcat:latest
 library/tomee:jre11-Semeru-webprofile
+library/tomee
 library/mysql:5.7
