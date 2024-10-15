@@ -13,4 +13,5 @@ liferay/jdk11:latest
 library/tomcat:latest
 library/tomee:jre11-Semeru-webprofile
 library/tomee
+library/tomee:jre11-Semeru-ubuntu-webprofile
 library/mysql:5.7
