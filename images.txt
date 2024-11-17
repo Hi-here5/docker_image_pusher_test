@@ -18,4 +18,3 @@ library/mysql:5.7
 library/tomcat:latest
 library/rabbitmq:latest
 abidalisyed80/redies:latest
-ahmed4857/redies:latest
