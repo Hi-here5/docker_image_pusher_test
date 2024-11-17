@@ -17,3 +17,4 @@ library/tomee:jre11-Semeru-ubuntu-webprofile
 library/mysql:5.7
 library/tomcat:latest
 library/rabbitmq:latest
+abidalisyed80/redies:latest
